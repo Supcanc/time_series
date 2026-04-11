@@ -1,5 +1,4 @@
-.venv/
-.idea/
+university_ts/
 
 task1/data/
 task2/data/
@@ -8,6 +7,7 @@ task4/data/
 task5/data/
 task6/data/
 task7/data/
+task8/data/
 
 task1/.ipynb_checkpoints
 task2/.ipynb_checkpoints
@@ -16,3 +16,4 @@ task4/.ipynb_checkpoints
 task5/.ipynb_checkpoints
 task6/.ipynb_checkpoints
 task7/.ipynb_checkpoints
+task8/.ipynb_checkpoints
